@@ -1,5 +1,5 @@
 ## EZSKI
-❄️ A platform for Booking SKI trips conveniently, allowing users to easily reserve ski trips on specific dates ❄️  <br> 
+❄️ A platform for Booking SKI trips conveniently, allowing users to easily reserve ski trips on specific dates ❄️  <br><br> 
 
 
 ## 스키장 예약 플랫폼
@@ -13,7 +13,7 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트입니다. 예약하기의
 
 - **날짜 선택:** 스키 여행에 딱 맞는 날짜를 선택하세요.
 - **스키장 옵션:** 다양한 스키장 중에서 선택해보세요.
-- **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.<br> 
+- **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.<br><br>  
 
 
 ### 사용된 기술
@@ -21,7 +21,7 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트입니다. 예약하기의
 - **프론트엔드:** React.js
 - **백엔드:** Node.js with Express
 - **데이터베이스:** MongoDB
-- **인증:** JWT<br> 
+- **인증:** JWT<br><br>  
 
   
 ### 시작하기
