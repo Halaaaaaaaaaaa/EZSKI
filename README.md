@@ -10,14 +10,14 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트로 예약하기의 주요
 <br> <br> 
 
 ### Feature
-
+---
 - **날짜 선택:** 스키 여행에 딱 맞는 날짜를 선택하세요.
 - **스키장 옵션:** 다양한 스키장 중에서 선택해보세요.
 - **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.<br><br>  
 
 
 ### Tech Stack
-
+---
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -25,6 +25,7 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트로 예약하기의 주요
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-CC342D?style=for-the-badge&logo=JSON&logoColor=white">
 ---
 <img src="https://img.shields.io/badge/JAVA-007396?logo=java">
 <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle">
