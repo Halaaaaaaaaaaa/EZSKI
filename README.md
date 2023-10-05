@@ -18,20 +18,12 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트로 예약하기의 주요
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/JSON-CC342D?style=for-the-badge&logo=JSON&logoColor=white">
----
-<img src="https://img.shields.io/badge/JAVA-007396?logo=java">
-<img src="https://img.shields.io/badge/oracle-F80000?logo=oracle">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript">
-<img src="https://img.shields.io/badge/html-E34F26?logo=html5">
-<img src="https://img.shields.io/badge/css-1572B6?logo=css3">
-<img src="https://img.shields.io/badge/github-181717?logo=github">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?logo=apachetomcat">
-<img src="https://img.shields.io/badge/JSON-CC342D?logo=JSON">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/JSON-CC342D?style=for-the-badge&logo=JSON&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 <br><br>  
 
   
-### 시작하기
+## 시작하기
 
 스키장 예약 플랫폼을 시작하려면 다음 단계를 따라주세요:
 
