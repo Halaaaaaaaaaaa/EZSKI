@@ -2,9 +2,11 @@
 ❄️ A platform for Booking SKI trips conveniently, allowing users to easily reserve ski trips on specific dates ❄️
 
 
+
 # 스키장 예약 플랫폼
 
 스키장 예약 플랫폼에 오신 여러분을 환영합니다! 이 플랫폼을 통해 사용자는 간편하게 날짜를 선택하고 스키 여행을 예약할 수 있습니다.
+
 
 
 ## 주요 기능
@@ -14,12 +16,14 @@
 - **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.
 
 
+
 ## 사용된 기술
 
 - **프론트엔드:** React.js
 - **백엔드:** Node.js with Express
 - **데이터베이스:** MongoDB
 - **인증:** JWT
+
 
 
 ## 시작하기
