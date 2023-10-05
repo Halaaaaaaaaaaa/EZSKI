@@ -26,7 +26,7 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트로 예약하기의 주요
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/JSON-CC342D?style=for-the-badge&logo=JSON&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-#525C86?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/eclipseide-#525C86?style=for-the-badge&logo=eclipseide&logoColor=white">
 <br><br>  
 
   
