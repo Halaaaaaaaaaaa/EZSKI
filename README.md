@@ -13,8 +13,11 @@ JAVA와 JSP를 배우면서 제작한 팀 프로젝트로 예약하기의 주요
 
 - **날짜 선택:** 스키 여행에 딱 맞는 날짜를 선택하세요.
 - **스키장 옵션:** 다양한 스키장 중에서 선택해보세요.
-- **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.<br><br>  
+- **편리한 예약 프로세스:** 간단하고 직관적인 예약 과정을 경험하세요.<br><br>
 
+## ERD
+<img src="https://github.com/Halaaaaaaaaaaa/STS-Entertainment/assets/122586230/60df2cf7-9fcf-4df3-ae43-71db75d80581" width="700px" height="600px"> 
+<br><br>
 
 ## Tech Stack
 
